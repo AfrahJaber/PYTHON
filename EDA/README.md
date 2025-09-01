@@ -1,1 +1,1 @@
-python projects
+EDA projects
